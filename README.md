@@ -9,7 +9,7 @@ Modular AI agent architecture for automated coding, recursive model training, an
 - Model-agnostic design: supports Ollama, Gemini, MiniMax, etc.
 
 ## Status
-Prototype under development. Grant funding will accelerate testing and training.
+Prototype under development.
 
 ## License
 MIT
